@@ -8,9 +8,6 @@ Learning Tool: Perfect for students, developers, and researchers interested in c
 Getting Started
 Clone the Repository:
 
-git clone https://github.com/yourusername/convex-partitioning-visualizer.git
-cd convex-partitioning-visualizer
-
 Install Dependencies (if any):
 
 For example, install matplotlib for visualizations:
